@@ -1,4 +1,4 @@
-# Raw Tranco source data (large files, re-downloadable from tranco-list.eu)
+# Raw Tranco source data in root data/ (re-downloadable from tranco-list.eu)
 data/top-1m.csv
 data/top-1m.csv.zip
 
